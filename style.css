@@ -50,7 +50,6 @@ h2{
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 2rem;
 }
 
 p{
@@ -69,6 +68,12 @@ p{
     flex-wrap: wrap;
     margin: 0 auto;
     flex: 1;
+}
+
+.content h2{
+    width: 100%;
+    text-align: center;
+    margin-bottom: 1rem;
 }
 
 .card {
